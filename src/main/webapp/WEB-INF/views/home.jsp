@@ -30,6 +30,3 @@
  
 </body>
 </html>
-
-
-출처: https://all-record.tistory.com/176?category=733072 [세상의 모든 기록]
